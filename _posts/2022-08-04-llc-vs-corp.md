@@ -20,11 +20,6 @@ For my case, let me start with my criteria:
 
 5.  I don’t expect the entity to make a lot of money, if any.
 
-6.  If the entity ends up making money, I would like any self-employment taxes
-    to go towards my spouse’s Social Security contributions, to satisfy her Work
-    Credits. It is important for a person to satisfy Social Security Work
-    Credits in order to qualify for Disability Benefits if the need arises.
-
 I consulted these sources for information:
 
 -   [Compare Business Structures - LLC vs. Corporation, S Corporation and C
