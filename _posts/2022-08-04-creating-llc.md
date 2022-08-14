@@ -86,8 +86,8 @@ So I should go with spouse or me+spouse.
 Now, having a husband+wife partnership LLC makes tax filings a little
 complicated. See
 
-[Qualified Joint Venture LLC [Husband and Wife LLC] - LLC University​.
-](tps://www.llcuniversity.com/irs/qualified-joint-venture-husband-wife-llc/)
+[Qualified Joint Venture LLC [Husband and Wife LLC] - LLC
+University​.](tps://www.llcuniversity.com/irs/qualified-joint-venture-husband-wife-llc/)
 
 Since we are living in Washington state, which is a Community Property State, we
 can do a Qualified Joint Venture election with the IRS to get around the tax
@@ -119,15 +119,34 @@ file separately to get an IRS TIN, and a Washington State Business License.
 
 These are the action items after LLC Formation:
 
-1.  Get an IRS TIN.
+1.  Get an Email account.
 
-2.  Get a Washington Business License.
+2.  Get an IRS TIN - [How to get an EIN for LLC (Online) [2022 Guide] \| LLC
+    University®.](https://www.llcuniversity.com/irs/apply-for-ein-for-llc-online/)
 
-3.  Get a Business Bank Account.
+3.  File an S-Corp Election within 2.5 months - [Have Your LLC Taxed as an S
+    Corp - S Corp Election Form 2553
+    (incfile.com).](https://www.incfile.com/llc-s-corp-election)
 
-4.  Get a Virtual Phone Number.
+4.  Get a Washington Business License - [Business License in Washington \| LLC
+    University®​](https://www.llcuniversity.com/washington-state-llc/business-licenses-permits/)
 
-5.  Get an Email account.
+    -   [Business & occupation tax \| Washington Department of
+        Revenue](https://dor.wa.gov/taxes-rates/business-occupation-tax)
+
+    -   [Business Licensing \| Redmond,
+        WA](https://www.redmond.gov/230/Business-Licensing#:~:text=The%202022%20annual%20license%20fee%20for%20the%20City,within%20Redmond%2C%20or%20simply%20conducting%20business%20in%20Redmond.)
+
+    -   [Redmond \| Washington Department of
+        Revenue](https://dor.wa.gov/manage-business/city-license-endorsements/redmond)
+
+5.  Get a Business Bank Account.
+
+6.  Get a Virtual Phone Number.
+
+7.  Get a Small Business Credit Card - [Blue Business Plus Credit Card from
+    American
+    Express​](https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/45094/?linknav=US-Acq-GCP-BusinessCards-ViewAllCards-CardTitle-BlueForBusinessPlus)
 
  
 
