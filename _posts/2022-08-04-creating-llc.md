@@ -101,19 +101,38 @@ So, I have decided to go with 100% spouse ownership.
 Below are the Services that I considered:
 
 -   Stripe Atlas
-
 -   LegalZoom
 
 -   Clerky
 
 -   IncFile
 
--   Collective Hub
-
 -   NorthWest Registered Agent
 
-Decision: I am proceeding with using “” for creating my LLC. I am going to
-figure out these open questions later:
+-   Stripe Atlas - Only files in Delaware.
+
+-   Collective Hub - Only handles S-Corp.
+
+Decision: I am proceeding with using IncFile because it is free. I will have to
+file separately to get an IRS TIN, and a Washington State Business License.
+
+ 
+
+These are the action items after LLC Formation:
+
+1.  Get an IRS TIN.
+
+2.  Get a Washington Business License.
+
+3.  Get a Business Bank Account.
+
+4.  Get a Virtual Phone Number.
+
+5.  Get an Email account.
+
+ 
+
+I am going to figure out these open questions later:
 
 1.  How to do bookkeeping?
 
