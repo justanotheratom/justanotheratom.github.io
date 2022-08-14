@@ -100,7 +100,6 @@ So, I have decided to go with 100% spouse ownership.
 
 Below are the Services that I considered:
 
--   Stripe Atlas
 -   LegalZoom
 
 -   Clerky
