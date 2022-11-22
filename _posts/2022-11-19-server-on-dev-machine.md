@@ -34,6 +34,10 @@ I am trying to develop a Telegram Bot in Python on my dev machine. And I want th
  
     flask run --cert=.\tellthenaskbotpublic.pem --key=.\tellthenaskbotprivate.key -p 3000 -h 192.168.86.25
 
+- Test TCP connection from outside:
+
+    Test-Netconnection tellthenask.fungee.llc -Port 443
+
 References:
 
 https://core.telegram.org/bots/self-signed
