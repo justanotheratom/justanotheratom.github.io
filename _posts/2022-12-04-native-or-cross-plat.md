@@ -54,3 +54,5 @@ Going with [Expo](https://expo.dev/) + React Native for now.
 
 # References:
 
+https://youtu.be/0zY-5z_8D4o
+
