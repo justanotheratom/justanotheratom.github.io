@@ -1,5 +1,3 @@
-# Adding Custom Font in SwiftUI: A Step-by-Step Guide
-
 Disclaimer: This blog post was the artifact of a conversation with claude.ai.
 
 Custom fonts can significantly enhance the visual appeal and branding of your iOS app. In this post, we'll walk through the process of implementing the [Figtree font](https://fonts.google.com/specimen/Figtree) in a SwiftUI app, including how to set it as the default font globally. We'll also discuss some challenges we encountered and how to overcome them.
