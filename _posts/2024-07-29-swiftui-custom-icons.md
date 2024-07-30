@@ -1,5 +1,3 @@
-# Incorporating Third-Party Icons into Your SwiftUI iOS App
-
 In this post, I'll walk you through the process of adding custom icons to your SwiftUI iOS app, from obtaining the SVG files to using them efficiently in your code.
 
 ## Installing Inkscape and Converting SVGs to PDFs
