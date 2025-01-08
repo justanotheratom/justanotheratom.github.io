@@ -1,13 +1,8 @@
 Note: This is the result of a conversation with ChatGPT o1.
 
-# Building an Auto-Expanding, Scrollable Transcript View in SwiftUI
-
-## 1. Product Requirements (PRD)
-
-**High-Level Goal**  
 We want to display a **live transcript** (e.g., from a live audio recording) in a SwiftUI app. The transcript is read-only text that grows over time as new lines are appended.
 
-**Key Requirements**  
+## 1. Key Requirements
 1. **Expandable Height**  
    - Start at 1 line in height.  
    - Expand up to a maximum of 4 lines as the transcript grows.  
